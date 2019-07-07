@@ -11,4 +11,5 @@ Welcome to MING's BLOG's documentation!
    :caption: Contents:
    
    how_to_be_a_rich_man
+   blog writing
 
