@@ -43,8 +43,13 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
+<<<<<<< HEAD
 project = u'广砥\'的-博客' 
 copyright = u'2019, data'
+=======
+project = u'李广砥\'的-博客' 
+copyright = u'李光地理, -知识星球1.0'
+>>>>>>> d5dce8e9e39ea32f6ff7805c05c3536108d61210
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
