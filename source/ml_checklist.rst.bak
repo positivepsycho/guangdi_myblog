@@ -126,10 +126,12 @@ Tips：Don’t tweak your model after measuring the generalization error:you wou
 
 1. Document what you have done.
 2. Create a nice presentation.
+
 • Make sure you highlight the big picture first.
 
 3. Explain why your solution achieves the business objective.
 4. Don’t forget to present interesting points you noticed along the way.
+
 • Describe what worked and what did not.
 • List your assumptions and your system’s limitations.
 
