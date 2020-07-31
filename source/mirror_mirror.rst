@@ -1,38 +1,43 @@
-Ëæ±ÊÎå Ä§¾µ
+éšç¬”äº” MIRROR
 ======================
 
+é•¿è¿œçœ¼å…‰
+---------------------
 
 A loving person lives in a loving world. A hostile person lives in a hostile world. Everyone you meet is your mirror.
 
-³äÂú°®ÒâµÄÈËÉú»îÔÚ³äÂú°®ÒâµÄÊÀ½çÀï£¬³äÂúµĞÒâµÄÈËÔòÉú»îÔÚ³äÂúµĞÒâµÄÊÀ½çÀï¡£ÄãËùÓöµ½µÄÃ¿Ò»¸öÈË¶¼ÊÇÄãµÄ¾µ×Ó¡£
+å……æ»¡çˆ±æ„çš„äººç”Ÿæ´»åœ¨å……æ»¡çˆ±æ„çš„ä¸–ç•Œé‡Œ,å……æ»¡æ•Œæ„çš„äººåˆ™ç”Ÿæ´»åœ¨å……æ»¡æ•Œæ„çš„ä¸–ç•Œé‡Œ.ä½ æ‰€é‡åˆ°çš„æ¯ä¸€ä¸ªäººéƒ½æ˜¯ä½ çš„é•œå­.
 
 Mirrors have a very particular function. They reflect the image in front of them. Just as a physical mirror serves as the vehicle to reflection, so do all of the people in our lives.
 
-¾µ×ÓÓĞÒ»¸ö·Ç³£¶ÀÌØµÄ¹¦ÄÜ£¬ÄÇ¾ÍÊÇÓ³Éä³öÔÚÆäÇ°ÃæµÄÓ°Ïñ¡£¾ÍÏñÕæÕıµÄ¾µ×Ó¾ßÓĞ·´Éä¹¦ÄÜÒ»Ñù£¬ÎÒÃÇÉú»îÖĞµÄËùÓĞÈËÒ²¶¼ÄÜÓ³Éä³öËûÈËµÄÓ°×Ó¡£
+é•œå­æœ‰ä¸€ä¸ªéå¸¸ç‹¬ç‰¹çš„åŠŸèƒ½,é‚£å°±æ˜¯æ˜ å°„å‡ºåœ¨å…¶å‰é¢çš„å½±åƒ.å°±åƒçœŸæ­£çš„é•œå­å…·æœ‰åå°„åŠŸèƒ½ä¸€æ ·,æˆ‘ä»¬ç”Ÿæ´»ä¸­çš„æ‰€æœ‰äººä¹Ÿéƒ½èƒ½æ˜ å°„å‡ºä»–äººçš„å½±å­.
 
-When we see something beautiful such as a flower garden, that garden serves as a reflection. In order to see the beauty in front of us, we must be able to see the beauty inside of ourselves. When we love someone, it¡¯s a reflection of loving ourselves. When we love someone, it¡¯s a reflection of loving ourselves. We have often heard things like ¡°I love how I am when I¡¯m with that person.¡± That simply translates into ¡°I¡¯m able to love me when I love that other person.¡± Oftentimes, when we meet someone new, we feel as though we ¡°click¡±. Sometimes it¡¯s as if we¡¯ve known each other for a long time. That feeling can come from sharing similarities.
+When we see something beautiful such as a flower garden, that garden serves as a reflection. In order to see the beauty in front of us, we must be able to see the beauty inside of ourselves. When we love someone, itâ€™s a reflection of loving ourselves. When we love someone, itâ€™s a reflection of loving ourselves. We have often heard things like â€œI love how I am when Iâ€™m with that person.â€ That simply translates into â€œIâ€™m able to love me when I love that other person.â€ Oftentimes, when we meet someone new, we feel as though we â€œclickâ€. Sometimes itâ€™s as if weâ€™ve known each other for a long time. That feeling can come from sharing similarities.
 
-µ±ÎÒÃÇ¿´µ½ÃÀÀöµÄÊÂÎïÊ±£¬ÀıÈçÒ»×ù»¨Ô°£¬ÄÇÕâ»¨Ô°¾ÍÆğµ½ÁË·´Éä×÷ÓÃ¡£ÎªÁË·¢ÏÖÎÒÃÇÃæÇ°ÃÀºÃµÄÊÂÎï£¬ÎÒÃÇ±ØĞëÄÜ·¢ÏÖ×Ô¼ºÄÚÔÚµÄÃÀ¡£ÎÒÃÇ°®Ä³¸öÈË£¬Ò²ÕıÊÇÎÒÃÇ°®×Ô¼ºµÄ±íÏÖ¡£ÎÒÃÇ¾­³£Ìıµ½ÕâÑùµÄ»°£º¡°µ±ÎÒºÍÄÇ¸öÈËÔÚÒ»ÆğµÄÊ±ºò£¬ÎÒ°®ÄÇÊ±µÄ×Ô¼º¡£¡±Õâ¾ä»°Ò²¿ÉÒÔ¼òµ¥µØËµ³É£º¡°ÔÚÎÒ°®ÄÇ¸öÈËµÄÍ¬Ê±£¬ÎÒÒ²ÄÜÔÚÎÒ×Ô¼º¡£¡±ÓĞÊ±£¬ÎÒÃÇÓöµ½Ò»¸öÄ°ÉúÈË£¬¸Ğ¾õ·Â·ğÊÇÒ»¼ûÈç¹Ê£¬¾ÍºÃÏñÎÒÃÇÒÑ¾­ÏàÊ¶Éõ¾Ã¡£ÕâÖÖÊìÏ¤¸Ğ¿ÉÄÜÀ´×ÔÓÚ±Ë´ËÉíÉÏµÄ¹²Í¬µã¡£
+å½“æˆ‘ä»¬çœ‹åˆ°ç¾ä¸½çš„äº‹ç‰©æ—¶,ä¾‹å¦‚ä¸€åº§èŠ±å›­,é‚£è¿™èŠ±å›­å°±èµ·åˆ°äº†åå°„ä½œç”¨.ä¸ºäº†å‘ç°æˆ‘ä»¬é¢å‰ç¾å¥½çš„äº‹ç‰©,æˆ‘ä»¬å¿…é¡»èƒ½å‘ç°è‡ªå·±å†…åœ¨çš„ç¾.æˆ‘ä»¬çˆ±æŸä¸ªäºº,ä¹Ÿæ­£æ˜¯æˆ‘ä»¬çˆ±è‡ªå·±çš„è¡¨ç°.æˆ‘ä»¬ç»å¸¸å¬åˆ°è¿™æ ·çš„è¯, â€œå½“æˆ‘å’Œé‚£ä¸ªäººåœ¨ä¸€èµ·çš„æ—¶å€™,æˆ‘çˆ±é‚£æ—¶çš„è‡ªå·±.â€è¿™å¥è¯ä¹Ÿå¯ä»¥ç®€å•åœ°è¯´æˆ,â€œåœ¨æˆ‘çˆ±é‚£ä¸ªäººçš„åŒæ—¶,æˆ‘ä¹Ÿèƒ½åœ¨æˆ‘è‡ªå·±.â€æœ‰æ—¶,æˆ‘ä»¬é‡åˆ°ä¸€ä¸ªé™Œç”Ÿäºº,æ„Ÿè§‰ä»¿ä½›æ˜¯ä¸€è§å¦‚æ•…,å°±å¥½åƒæˆ‘ä»¬å·²ç»ç›¸è¯†ç”šä¹….è¿™ç§ç†Ÿæ‚‰æ„Ÿå¯èƒ½æ¥è‡ªäºå½¼æ­¤èº«ä¸Šçš„å…±åŒç‚¹.
 
-Just as the ¡°mirror¡± or other person can be a positive reflection, it is more likely that we¡¯ll notice it when it has a negative connotation. For example, it¡¯s easy to remember times when we have met someone we¡¯re not particularly crazy about. We may have some criticism in our mind about the person. This is especially true when we get to know someone with whom we would rather spend less time.
+Just as the â€œmirrorâ€ or other person can be a positive reflection, it is more likely that weâ€™ll notice it when it has a negative connotation. For example, itâ€™s easy to remember times when we have met someone weâ€™re not particularly crazy about. We may have some criticism in our mind about the person. This is especially true when we get to know someone with whom we would rather spend less time.
 
-¾ÍÏñ¡°¾µ×Ó¡±»òËûÈËÄÜÓ°Éä³öÎÒÃÇ»ı¼«µÄÒ»ÃæÒ»Ñù£¬ÎÒÃÇ¸üÓĞ¿ÉÄÜ×¢Òâµ½Ó°Éä³ö×Ô¼ºÏû¼«·½ÃæµÄ¡°¾µ×Ó¡±¡£ÀıÈç£¬ÎÒÃÇºÜÈİÒ×¾Í¼Ç×¡ÎÒÃÇÅöµ½×Ô¼º²»Ì«Ï²»¶µÄÈËµÄÊ±¿Ì¡£ÎÒÃÇ¿ÉÄÜÔÚĞÄÀï¶ÔÄÇ¸öÈËÓĞĞ©·´¸Ğ¡£µ±ÎÒÃÇÈÏÊ¶×Ô¼º²»Ï²»¶ÓëÖ®Ïà´¦µÄÈËÊ±£¬ÕâÖÖÇé¿ö¾Í¸üÎªÃ÷ÏÔ¡£
+å°±åƒâ€œé•œå­â€æˆ–ä»–äººèƒ½å½±å°„å‡ºæˆ‘ä»¬ç§¯æçš„ä¸€é¢ä¸€æ ·,æˆ‘ä»¬æ›´æœ‰å¯èƒ½æ³¨æ„åˆ°å½±å°„å‡ºè‡ªå·±æ¶ˆææ–¹é¢çš„â€œé•œå­â€.ä¾‹å¦‚,æˆ‘ä»¬å¾ˆå®¹æ˜“å°±è®°ä½æˆ‘ä»¬ç¢°åˆ°è‡ªå·±ä¸å¤ªå–œæ¬¢çš„äººçš„æ—¶åˆ».æˆ‘ä»¬å¯èƒ½åœ¨å¿ƒé‡Œå¯¹é‚£ä¸ªäººæœ‰äº›åæ„Ÿ.å½“æˆ‘ä»¬è®¤è¯†è‡ªå·±ä¸å–œæ¬¢ä¸ä¹‹ç›¸å¤„çš„äººæ—¶,è¿™ç§æƒ…å†µå°±æ›´ä¸ºæ˜æ˜¾.
 
-Frequently, when we dislike qualities in other people, ironically, it¡¯s usually the mirror that¡¯s speaking to us.
+Frequently, when we dislike qualities in other people, ironically, itâ€™s usually the mirror thatâ€™s speaking to us.
 
-¾ßÓĞ·í´ÌÒâÎ¶µÄÊÇ£¬Í¨³£µ±ÎÒÃÇÌÖÑá±ğÈËÉíÉÏµÄÄ³Ğ©ÌØÖÊÊ±£¬ÄÇ¾ÍËµÃ÷ÄãÆäÊµÌÖÑá×Ô¼ºÉíÉÏÏàÀàËÆµÄÌØÖÊ¡£
+å…·æœ‰è®½åˆºæ„å‘³çš„æ˜¯,é€šå¸¸å½“æˆ‘ä»¬è®¨åŒåˆ«äººèº«ä¸Šçš„æŸäº›ç‰¹è´¨æ—¶,é‚£å°±è¯´æ˜ä½ å…¶å®è®¨åŒè‡ªå·±èº«ä¸Šç›¸ç±»ä¼¼çš„ç‰¹è´¨.
 
-I began questioning myself further each time I encountered someone that I didn¡¯t particularly like. Each time, I asked myself, ¡°What is it about that person that I don¡¯t like?¡± and then ¡°Is there something similar in me?¡± in every instance, I could see a piece of that quality in me, and sometimes I had to really get very introspective. So what did that mean?
+I began questioning myself further each time I encountered someone that I didnâ€™t particularly like. Each time, I asked myself, â€œWhat is it about that person that I donâ€™t like?â€ and then â€œIs there something similar in me?â€ in every instance, I could see a piece of that quality in me, and sometimes I had to really get very introspective. So what did that mean?
 
-Ã¿´Î£¬µ±ÎÒÓöµ½×Ô¼º²»Ì«Ï²»¶µÄÈËÊ±£¬ÎÒ¾Í¿ªÊ¼½øÒ»²½ÖÊÎÊ×Ô¼º¡£ÎÒ»áŞÑĞÄ×ÔÎÊ£º¡°ÎÒ²»Ï²»¶ÄÇ¸öÈËµÄÄÄĞ©·½Ãæ£¿¡±È»ºó»¹»áÎÊ£º¡°ÎÒÊÇ²»ÊÇÓĞºÍËûÏàËÆµÄµØ·½£¿¡±Ã¿´Î£¬ÎÒ¶¼ÄÜÔÚ×Ô¼ºÉíÉÏ¿´µ½Ò»Ğ©ÁîÎÒÑá¶ñµÄÌØÖÊ¡£ÎÒÓĞÊ±²»µÃ²»Éî¿ÌµØ·´Ê¡×Ô¼º¡£ÄÇÕâÒâÎ¶×ÅÊ²Ã´ÄØ£¿
+æ¯æ¬¡,å½“æˆ‘é‡åˆ°è‡ªå·±ä¸å¤ªå–œæ¬¢çš„äººæ—¶,æˆ‘å°±å¼€å§‹è¿›ä¸€æ­¥è´¨é—®è‡ªå·±.æˆ‘ä¼šæ‰ªå¿ƒè‡ªé—®,â€œæˆ‘ä¸å–œæ¬¢é‚£ä¸ªäººçš„å“ªäº›æ–¹é¢ï¼Ÿâ€ç„¶åè¿˜ä¼šé—®,â€œæˆ‘æ˜¯ä¸æ˜¯æœ‰å’Œä»–ç›¸ä¼¼çš„åœ°æ–¹ï¼Ÿâ€æ¯æ¬¡,æˆ‘éƒ½èƒ½åœ¨è‡ªå·±èº«ä¸Šçœ‹åˆ°ä¸€äº›ä»¤æˆ‘åŒæ¶çš„ç‰¹è´¨.æˆ‘æœ‰æ—¶ä¸å¾—ä¸æ·±åˆ»åœ°åçœè‡ªå·±.é‚£è¿™æ„å‘³ç€ä»€ä¹ˆå‘¢ï¼Ÿ
 
-It means that just as I can get annoyed or disturbed when I notice that aspect in someone else, I better reexamine my qualities and consider making some changes. Even if I¡¯m not willing to make a drastic change, at least I consider how I might modify some of the things that I¡¯m doing.
+It means that just as I can get annoyed or disturbed when I notice that aspect in someone else, I better reexamine my qualities and consider making some changes. Even if Iâ€™m not willing to make a drastic change, at least I consider how I might modify some of the things that Iâ€™m doing.
 
-ÕâÒâÎ¶×Å£¬¾ÍÏñÎÒ»á¶ÔÆäËûÈËÉíÉÏÁîÎÒÑá¶ñµÄÌØÖÊ¸Ğµ½·ßÅ­»ò²»°²Ò»Ñù£¬ÎÒÓ¦¸Ã¸üºÃµØÖØĞÂÉóÊÓ×Ô¼ºµÄÌØÖÊ£¬²¢¿¼ÂÇ×öÒ»Ğ©¸Ä±ä¡£¼´Ê¹ÎÒ²»Ïë×ö´óµÄ¸Ä±ä£¬ÖÁÉÙÎÒ»á¿¼ÂÇ¸ÃÈçºÎĞŞÕı×Ô¼ºÕıÔÚ×öµÄÒ»Ğ©ÊÂÇé¡£
+è¿™æ„å‘³ç€,å°±åƒæˆ‘ä¼šå¯¹å…¶ä»–äººèº«ä¸Šä»¤æˆ‘åŒæ¶çš„ç‰¹è´¨æ„Ÿåˆ°æ„¤æ€’æˆ–ä¸å®‰ä¸€æ ·,æˆ‘åº”è¯¥æ›´å¥½åœ°é‡æ–°å®¡è§†è‡ªå·±çš„ç‰¹è´¨,å¹¶è€ƒè™‘åšä¸€äº›æ”¹å˜.å³ä½¿æˆ‘ä¸æƒ³åšå¤§çš„æ”¹å˜,è‡³å°‘æˆ‘ä¼šè€ƒè™‘è¯¥å¦‚ä½•ä¿®æ­£è‡ªå·±æ­£åœ¨åšçš„ä¸€äº›äº‹æƒ….
 
-At times we meet someone new and feel distant, disconnected, or disgusted. Although we don¡¯t want to believe it, and it¡¯s not easy or desirable to look further, it can be a great learning lesson to figure out what part of the person is being reflected in you. It¡¯s simply just another way to create more self-awareness.
+At times we meet someone new and feel distant, disconnected, or disgusted. Although we donâ€™t want to believe it, and itâ€™s not easy or desirable to look further, it can be a great learning lesson to figure out what part of the person is being reflected in you. Itâ€™s simply just another way to create more self-awareness.
 
-ÎÒÃÇÊ±³£»áÓöµ½Ä°ÉúÈË£¬²¢¸Ğµ½ÊèÔ¶»òÑá¶ñ¡£¾¡¹ÜÎÒÃÇ²»ÏëÈ¥ÏàĞÅ£¬²»ÈİÒ×Ò²²»ÏëÈ¥Éî¾¿£¬µ«ÊÇÅªÇå³ş±ğÈËµÄÄÄĞ©ÌØÖÊÔÚ×Ô¼ºÉíÉÏÓĞËùÌåÏÖÊÇ·Ç³£ÓĞÒâÒåµÄÒ»¿Î£¬ÕâÒ²ÕıÊÇÔöÇ¿×ÔÎÒÒâÊ¶µÄÁíÒ»¸öÍ¾¾¶¡£
+æˆ‘ä»¬æ—¶å¸¸ä¼šé‡åˆ°é™Œç”Ÿäºº,å¹¶æ„Ÿåˆ°ç–è¿œæˆ–åŒæ¶.å°½ç®¡æˆ‘ä»¬ä¸æƒ³å»ç›¸ä¿¡,ä¸å®¹æ˜“ä¹Ÿä¸æƒ³å»æ·±ç©¶,ä½†æ˜¯å¼„æ¸…æ¥šåˆ«äººçš„å“ªäº›ç‰¹è´¨åœ¨è‡ªå·±èº«ä¸Šæœ‰æ‰€ä½“ç°æ˜¯éå¸¸æœ‰æ„ä¹‰çš„ä¸€è¯¾,è¿™ä¹Ÿæ­£æ˜¯å¢å¼ºè‡ªæˆ‘æ„è¯†çš„å¦ä¸€ä¸ªé€”å¾„.
 
 
-²Î¿¼£ºMirror, Mirror--What do I see
+å‚è€ƒ 
+---------------
+
+Mirror, Mirror,What do I see
