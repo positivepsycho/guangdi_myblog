@@ -35,6 +35,7 @@ Obviously, you should feel free to adapt this checklist to your needs.
 -----------------------------------------------------------------------------------------------------
 
 Note: automate as much as possible so you can easily get fresh data.
+
 1. List the data you need and how much you need.
 2. Find and document where you can get that data.
 3. Check how much space it will take.
@@ -51,6 +52,7 @@ Note: automate as much as possible so you can easily get fresh data.
 -----------------------------------------------------------------------------------------------------
 
 Note: try to get insights from a field expert for these steps.
+
 1. Create a copy of the data for exploration (sampling it down to a manageable size if necessary).
 2. Create a Jupyter notebook to keep a record of your data exploration.
 3. Study each attribute and its characteristics:
@@ -74,11 +76,13 @@ Note: try to get insights from a field expert for these steps.
 Notes:
 • Work on copies of the data (keep the original dataset intact).
 • Write functions for all data transformations you apply, for five reasons:
+
 —So you can easily prepare the data the next time you get a fresh dataset
 —So you can apply these transformations in future projects
 —To clean and prepare the test set
 —To clean and prepare new data instances once your solution is live
 —To make it easy to treat your preparation choices as hyperparameters
+
 1. Data cleaning:
 • Fix or remove outliers (optional).
 • Fill in missing values (e.g., with zero, mean, median…) or drop their rows (or columns).
@@ -97,6 +101,7 @@ Notes:
 Notes:
 • If the data is huge, you may want to sample smaller training sets so you can train many different models in a reasonable time (be aware that this penalizes complex models such as large neural nets or Random Forests).
 • Once again, try to automate these steps as much as possible.
+
 1. Train many quick and dirty models from different categories (e.g., linear, naive Bayes, SVM, Random Forests, neural net, etc.) using standard parameters.
 2. Measure and compare their performance.
 • For each model, use N-fold cross-validation and compute the mean and standard deviation of the performance measure on the N folds.
@@ -119,6 +124,7 @@ Notes:
 • Unless there are very few hyperparameter values to explore, prefer random search over grid search. If training is very long, you may prefer a Bayesian optimization approach (e.g., using Gaussian process priors, as described by Jasper Snoek, Hugo Larochelle, and Ryan Adams).1
 2. Try Ensemble methods. Combining your best models will often perform better than running them individually.
 3. Once you are confident about your final model, measure its performance on the test set to estimate the generalization error.
+
 Tips：Don’t tweak your model after measuring the generalization error:you would just start overfitting the test set.
 
 七.Present Your Solution
@@ -126,15 +132,11 @@ Tips：Don’t tweak your model after measuring the generalization error:you wou
 
 1. Document what you have done.
 2. Create a nice presentation.
-
 • Make sure you highlight the big picture first.
-
 3. Explain why your solution achieves the business objective.
 4. Don’t forget to present interesting points you noticed along the way.
-
 • Describe what worked and what did not.
 • List your assumptions and your system’s limitations.
-
 5. Ensure your key findings are communicated through beautiful visualizations or easy-to-remember statements (e.g., “the median income is the number-one predictor of housing prices”).
 
 八.Launch!
@@ -142,11 +144,9 @@ Tips：Don’t tweak your model after measuring the generalization error:you wou
 
 1. Get your solution ready for production (plug into production data inputs, write unit tests, etc.).
 2. Write monitoring code to check your system’s live performance at regular intervals and trigger alerts when it drops.
-
 • Beware of slow degradation too: models tend to “rot” as data evolves.
 • Measuring performance may require a human pipeline (e.g., via a crowdsourcing service).
 • Also monitor your inputs’ quality (e.g., a malfunctioning sensor sending random values, or another team’s output becoming stale). This is particularly important for online learning systems.
-
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
 
 参考文献：
