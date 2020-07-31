@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LGD's BLOG's documentation!
+Welcome to lgd documentation!
 =======================================
 
 .. toctree::
@@ -13,4 +13,6 @@ Welcome to LGD's BLOG's documentation!
    how_to_be_a_rich_man
    
    blog writing
+   
+   invest_guidance
 
