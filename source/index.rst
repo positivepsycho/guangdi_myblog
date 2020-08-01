@@ -10,6 +10,8 @@ Welcome to lgd documentation!
    :maxdepth: 2
    :caption: Contents:
    
+   fear_ornot
+   
    how_to_be_a_rich_man
    
    blog writing
@@ -21,4 +23,9 @@ Welcome to lgd documentation!
    mirror_mirror
    
    ml_checklist
-
+   
+   Festinger's_rule
+   
+   daisy
+   
+   
