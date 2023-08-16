@@ -27,5 +27,7 @@ Welcome to lgd documentation!
    Festinger's_rule
    
    daisy
+
+   rats
    
    
