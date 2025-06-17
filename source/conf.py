@@ -43,7 +43,7 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'LGD\'s BLOW' 
+project = u'GD\'s' 
 copyright = u'2019, guangdi'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -62,7 +62,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'LGD BLOG'
+htmlhelp_basename = 'GD'
 
 
 # -- Options for LaTeX output ---------------------------------------------
