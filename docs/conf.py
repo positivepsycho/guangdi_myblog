@@ -43,7 +43,7 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'GD\'s' 
+project = u'GD-SETTING' 
 copyright = u'2019, guangdi'
 
 # The version info for the project you're documenting, acts as replacement for
