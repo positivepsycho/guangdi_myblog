@@ -5,6 +5,21 @@
 
 -----------------------------------------------------------------------------------------------------
 
+ALLOW SHIT HAPPENS.
+
+The philosophy of "let shit happen" is a mindset that promotes accepting and allowing events, situations, or circumstances to unfold naturally, without interference or excessive control. It emphasizes going with the flow, embracing uncertainties, and not resisting or trying to manipulate the outcomes.
+
+In essence, this philosophy encourages individuals to adopt a more relaxed and accepting attitude towards life. Instead of constantly trying to control every aspect, it promotes a more open and flexible approach, acknowledging that some things are beyond our control.
+
+One aspect of this philosophy is the recognition that life is unpredictable, and attempting to control or resist every outcome can lead to stress, frustration, and disappointment. By letting things happen without excessive interference, individuals can find greater peace of mind and adapt more readily to changing circumstances.
+
+This philosophy does not imply complete passivity or a lack of responsibility. It involves being proactive and taking appropriate action, but without obsessively trying to manipulate or control every outcome.
+
+Overall, the philosophy of "let shit happen" encourages individuals to have faith in the natural course of events, to trust the journey, and to embrace the valuable lessons and opportunities that arise from allowing life to unfold organically.
+
+-----------------------------------------------------------------------------------------------------
+
+
 I Allow
 
 
