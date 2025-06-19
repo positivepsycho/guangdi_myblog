@@ -1,4 +1,4 @@
-﻿随笔十八 Amy_Cuddy
+﻿随笔十八 Body Language by Amy Cuddy 
 ======================
 
 Your body language may shape who you are
