@@ -48,7 +48,7 @@ Welcome to GD documentation!
 
    collapse
 
-   Dead_Poets_Society
+   Keating
    
    
    
