@@ -46,6 +46,7 @@ Welcome to GD documentation!
 
    body_language
 
+   collapse
    
    
    
