@@ -73,6 +73,8 @@ carpe diem
    marathon
 
    take-it-easy
+
+   insane
    
    
    
