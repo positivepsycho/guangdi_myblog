@@ -67,6 +67,8 @@ Welcome to GD documentation!
    face-it
 
    start
+
+   Occam's Razor
    
    
    
