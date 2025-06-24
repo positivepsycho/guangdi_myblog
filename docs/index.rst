@@ -69,6 +69,8 @@ Welcome to GD documentation!
    start
 
    Occam's Razor
+
+   marathon
    
    
    
