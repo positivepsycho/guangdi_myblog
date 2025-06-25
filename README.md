@@ -1,4 +1,4 @@
-# guang's_blog
+# g's_blog
 
 For personal blog and chit-chat: 
 
