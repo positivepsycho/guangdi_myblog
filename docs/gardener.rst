@@ -24,6 +24,14 @@
 
 园丁发现一朵花枯萎，她会想着是不是缺水，是不是肥料不够，是不是光照不足，是不是有了蛀虫，总是在聚焦解决问题，而不是抱怨花朵本身。那么在育儿上，为什么很多家长，发现孩子的问题，简单粗暴的打压，否定，甚至打骂或者人生攻击。
 
+流水不争先，争的是滔滔不绝。
+
+可持续的身心发展，而非揠苗助长（一口气榨干，对学习新东西市区兴趣）。
+
+凡是自然的东西，都忌讳用力过猛。
+
+培养好的学习和生活习惯，应该是一个身心健康的的人的首要目标。
+
 -----------------------------------------------------------------------------------------------------
 
 
@@ -57,5 +65,7 @@ How often have you heard that bad kids come from bad parents? The fact is that t
 
 Parenting is not just another job; it’s a lifelong commitment. And with the hectic schedule of our day to day lives, it’s easy to fall into habitual behavior. Unfortunately, some of those habits are counter productive. Remember these symptoms, as well as tips for breaking them.
 
-REF：This post was republished from CureJoy.com.
+REF：www.curejoy.com.
+REF：樊登读书
+REF：是谁在批量制造“厌学小孩”？
 
