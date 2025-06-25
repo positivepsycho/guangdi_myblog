@@ -65,7 +65,11 @@ How often have you heard that bad kids come from bad parents? The fact is that t
 
 Parenting is not just another job; it’s a lifelong commitment. And with the hectic schedule of our day to day lives, it’s easy to fall into habitual behavior. Unfortunately, some of those habits are counter productive. Remember these symptoms, as well as tips for breaking them.
 
+
+
 REF：www.curejoy.com.
+
 REF：樊登读书
+
 REF：是谁在批量制造“厌学小孩”？
 
