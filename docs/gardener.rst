@@ -1,0 +1,57 @@
+﻿随笔三十七 园丁
+======================
+
+不要过度控制孩子，给他们足够的精神空间。
+
+言传身教，大于命令。
+
+父母强（大包大揽，包办一切），孩子弱。父母弱（主动示弱，激发孩子自己解决问题，承担的能力），孩子强。
+
+
+遇到问题，解决问题。
+
+拒绝提前焦虑
+
+我们要帮助解决问题，而不是解决提出或者制造问题的人。
+
+提出问题或者制造问题本身是一种能力的体现。
+
+从神经元发育的角度来讲，过度的压力、打骂和各种负面情绪会干扰神经元的生长。反而，轻松释放的环境，更能激发孩子的好奇心和求知欲。
+
+园丁发现一朵花枯萎，她会想着是不是缺水，是不是肥料不够，是不是光照不足，是不是有了蛀虫，总是在聚焦解决问题，而不是抱怨花朵本身。那么在育儿上，为什么很多家长，发现孩子的问题，简单粗暴的打压，否定，甚至打骂或者人生攻击。
+
+-----------------------------------------------------------------------------------------------------
+
+
+你是否经常听说孩子的不良表现来源于家庭教育？事实是，孩子的一些表现正暗示着错误的家庭教育方式。在现实世界，我们的行为比语言更有说服力，而孩子的态度、观点、目标及视角很大程度来源于家庭。
+
+How often have you heard that bad kids come from bad parents? The fact is that there are several signs of bad parenting. In real world our actions speak louder than words. The attitude, views, goals, and perspective of a child depends to a large extent on what he or she learns from his or her parents.
+
+如果你的孩子总是故意打扰你，其实是因为你和他缺乏肢体接触，缺乏亲密感。
+
+如果你的孩子撒谎，其实这说明你曾经对他犯过的错误反应过度。
+
+如果你的孩子缺乏自信心，其实是因为你给他们的建议多过了鼓励。
+
+如果你的孩子不能坚持自我，其实是因为他们小时候你总是在公共场合教育批评他们。
+
+如果你什么东西都给孩子买可他们还是会去拿不属于他们的东西，其实是因为你不让他们自己选择想要的东西。
+
+如果你的孩子很懦弱，那其实是因为你帮助他们的速度太快了。不要帮你的孩子清扫他们成长道路上的每一个障碍。
+
+如果你的孩子嫉妒心很重，那可能是因为你总是拿别的孩子和他们比较。
+
+如果你的孩子很容易生气，那其实是因为你给了他们的赞扬不够，他们只有行为不当的时候才能得到注意。
+
+如果你的孩子不会尊重别人的感受，那是因为你总是命令他们，不尊重他们的感受。
+
+如果你的孩子总是神神秘秘的，什么都不告诉你，那是因为你总是爱打击他们。
+
+如果你的孩子总是行为粗鲁没有礼貌，那其实是从家长或者身边的人那里学来的。
+
+为人父母不只是一份工作，它是一生的承诺。伴随着日常繁忙的生活节奏，我们很容易陷入惯性的行为模式。不幸的是，有些习惯可能会适得其反。上述的描述和建议也许会帮到你，Good Luck！
+
+Parenting is not just another job; it’s a lifelong commitment. And with the hectic schedule of our day to day lives, it’s easy to fall into habitual behavior. Unfortunately, some of those habits are counter productive. Remember these symptoms, as well as tips for breaking them.
+
+REF：This post was republished from CureJoy.com.
+
