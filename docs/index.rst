@@ -87,5 +87,7 @@ carpe diem
    fishing
 
    GPT-Repo
+
+   self-motivation
    
    
