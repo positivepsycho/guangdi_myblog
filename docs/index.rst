@@ -75,6 +75,10 @@ carpe diem
    take-it-easy
 
    insane
+
+   common_sense
+
+   entropy
    
    
    
