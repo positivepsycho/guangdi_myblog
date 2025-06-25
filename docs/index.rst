@@ -79,6 +79,8 @@ carpe diem
    common_sense
 
    entropy
+
+   inside
    
    
    
