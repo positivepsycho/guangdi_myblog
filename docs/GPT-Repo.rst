@@ -8,6 +8,10 @@ LLM：Large Language Models
 -----------------------------------------------------------------------------------------------------
 1,领航AGI工具集：https://tools.lhagi.com/
 
-2，秘塔搜索、kimi、豆包、智谱青言（影）、讯飞、阿里、腾讯、百川、deepseek、chatgpt、gpt4
+2,AIGC工具导航：https://www.aigc.cn/
 
-3,
+3,秘塔搜索、kimi、豆包、智谱青言（影）、讯飞、阿里、腾讯、百川、deepseek、chatgpt、gpt4、XAI（Grok）
+
+4,
+
+
