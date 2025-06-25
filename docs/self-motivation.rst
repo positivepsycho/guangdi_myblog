@@ -8,6 +8,7 @@
 3,找到优势点（个人的天赋所在）：优越感、有成就感、正反馈以及深深地热爱。
 
 4,培养输出型爱好（例如，爱吃好吃的不是，把好吃的做出来并能形成稳定的操作指南才是）
+
 -----------------------------------------------------------------------------------------------------
 
 Inspiring self-motivation in kids is crucial for their personal growth and future success. Here are some effective strategies to help foster self-motivation in children:
