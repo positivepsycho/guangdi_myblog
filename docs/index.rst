@@ -105,3 +105,7 @@ carpe diem
    run
 
    patience
+
+   multiply
+
+   teacher
