@@ -103,3 +103,5 @@ carpe diem
    cognition
 
    run
+
+   patience
