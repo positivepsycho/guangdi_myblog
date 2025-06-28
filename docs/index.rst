@@ -99,3 +99,5 @@ carpe diem
    heart
 
    greedy
+
+   cognition
