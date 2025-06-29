@@ -109,3 +109,5 @@ carpe diem
    multiply
 
    teacher
+
+   sugar
