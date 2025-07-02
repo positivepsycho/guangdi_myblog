@@ -113,3 +113,5 @@ carpe diem
    sugar
 
    Coase_Theorem
+
+   wisdom
