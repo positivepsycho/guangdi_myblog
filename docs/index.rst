@@ -119,3 +119,7 @@ carpe diem
    health
 
    try_more
+
+   focus
+
+   supress
