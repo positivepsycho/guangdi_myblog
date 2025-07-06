@@ -123,3 +123,5 @@ carpe diem
    focus
 
    supress
+
+   choose
