@@ -3,6 +3,7 @@
 
 Dead Poets Society
 
+“Carpe diem. Seize the day, boys. Make your lives extraordinary.” – John Keating
 -----------------------------------------------------------------------------------------------------
 
 Top 150 Dead Poets Society Quotes (With Meanings)
