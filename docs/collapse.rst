@@ -6,6 +6,7 @@ take it easy.
 fuck it, not a big deal
 
 so tmd what?
+------------
 
 欲速则不达，事缓则圆，人缓则安，语迟则贵。
 ------------
