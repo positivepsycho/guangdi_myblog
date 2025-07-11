@@ -2,7 +2,6 @@
 ======================
 
 I learned that in the face of the void-or in the face of challenge-you can choose joy and meaning
-
 -----------------------------------------------------------------------------------------------------
 
 Thank you, Marie. And thank you esteemed members of the faculty, proud parents, devoted friends, squirming siblings.
