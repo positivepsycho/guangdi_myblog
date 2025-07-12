@@ -131,3 +131,5 @@ carpe diem
    insist
 
    reading
+
+   skill
