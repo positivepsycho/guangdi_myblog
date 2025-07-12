@@ -133,3 +133,5 @@ carpe diem
    reading
 
    skill
+
+   emotion
