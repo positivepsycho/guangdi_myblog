@@ -127,3 +127,7 @@ carpe diem
    choose
 
    time
+
+   insist
+
+   reading
