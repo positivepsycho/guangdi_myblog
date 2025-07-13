@@ -15,7 +15,7 @@ guide you through your Machine Learning projects.
 
 Obviously, you should feel free to adapt this checklist to your needs.
 
-一. Frame the problem and look at the big picture.
+1. Frame the problem and look at the big picture.
 -----------------------------------------------------------------------------------------------------
 
 1. Define the objective in business terms.
@@ -31,7 +31,7 @@ Obviously, you should feel free to adapt this checklist to your needs.
 11. List the assumptions you (or others) have made so far.
 12. Verify assumptions if possible.
 
-二. Get the data.
+2. Get the data.
 -----------------------------------------------------------------------------------------------------
 
 Note: automate as much as possible so you can easily get fresh data.
@@ -48,7 +48,7 @@ Note: automate as much as possible so you can easily get fresh data.
 10. Check the size and type of data (time series, sample, geographical, etc.).
 11. Sample a test set, put it aside, and never look at it (no data snooping!).
 
-三. Explore the data .
+3. Explore the data .
 -----------------------------------------------------------------------------------------------------
 
 Note: try to get insights from a field expert for these steps.
@@ -72,7 +72,7 @@ Note: try to get insights from a field expert for these steps.
 9. Identify extra data that would be useful (go back to “Get the Data” on page 498).
 10. Document what you have learned.
 
-四. Prepare the data
+4. Prepare the data
 -----------------------------------------------------------------------------------------------------
 
 Notes:
@@ -104,7 +104,7 @@ Notes:
 
 4. Feature scaling: standardize or normalize features.
 
-五.Short-List Promising Models
+5.Short-List Promising Models
 -----------------------------------------------------------------------------------------------------
 
 Notes:
@@ -126,7 +126,7 @@ Notes:
 6. Have one or two more quick iterations of the five previous steps.
 7. Short-list the top three to five most promising models, preferring models that make different types of errors.
 
-六.Fine-Tune the System
+6.Fine-Tune the System
 -----------------------------------------------------------------------------------------------------
 
 Notes:
@@ -144,7 +144,7 @@ Notes:
 
 Tips：Don’t tweak your model after measuring the generalization error:you would just start overfitting the test set.
 
-七.Present Your Solution
+7.Present Your Solution
 -----------------------------------------------------------------------------------------------------
 
 1. Document what you have done.
@@ -160,7 +160,7 @@ Tips：Don’t tweak your model after measuring the generalization error:you wou
 
 5. Ensure your key findings are communicated through beautiful visualizations or easy-to-remember statements (e.g., “the median income is the number-one predictor of housing prices”).
 
-八.Launch!
+8.Launch!
 -----------------------------------------------------------------------------------------------------
 
 1. Get your solution ready for production (plug into production data inputs, write unit tests, etc.).
@@ -172,7 +172,7 @@ Tips：Don’t tweak your model after measuring the generalization error:you wou
 
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
 
-参考文献：
+reference：
 -----------------------------------------------------------------------------------------------------
 
 1.《OReilly Hands On Machine Learning with Scikit Learn and TensorFlow》
