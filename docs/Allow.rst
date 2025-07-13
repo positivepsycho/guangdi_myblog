@@ -9,6 +9,9 @@
 接纳什么,什么就消失
 -----------------------------------------------------------------------------------------------------
 
+事与愿违也是人生的常态
+-----------------------------------------------------------------------------------------------------
+
 ALLOW SHIT HAPPENS.
 
 The philosophy of "let shit happen" is a mindset that promotes accepting and allowing events, situations, or circumstances to unfold naturally, without interference or excessive control. It emphasizes going with the flow, embracing uncertainties, and not resisting or trying to manipulate the outcomes.
